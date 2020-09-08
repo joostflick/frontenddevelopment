@@ -1,11 +1,26 @@
 # Procesverslag
-**Auteur:** -Joost Flick-
+**Auteur:** Joost Flick
 
 ## Bronnenlijst
 1. -bron 1-
 2. -bron 2-
 3. -...-
 
+## Intake (week 1)
+
+**Je startniveau:** De rode piste
+
+**Je focus:** Helemaal responsive maken
+
+**Je opdracht:** www.ah.nl
+
+**Screenshot(s):**
+
+![screenshot van ah.nl](images/screenshot.png)
+
+**Breakdown-schets(en):**
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
 
 
 ## Eindgesprek (week 7/8)
@@ -47,21 +62,3 @@
 ### Verslag van meeting
 
 -na afloop snel uitkomsten vastleggen-
-
-
-
-## Intake (week 1)
-
-**Je startniveau:** De zwarte piste
-
-**Je focus:** Helemaal responsive maken
-
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
-
-**Screenshot(s):**
-
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
-
-**Breakdown-schets(en):**
-
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
