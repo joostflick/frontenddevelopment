@@ -14,36 +14,13 @@
 
 **Je opdracht:** www.ah.nl
 
-**Screenshot(s):**
+**Screenshot:**
 
 ![screenshot van ah.nl](images/screenshot.png)
 
 **Breakdown-schets(en):**
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
-
-
-## Eindgesprek (week 7/8)
-
--dit ging goed & dit was lastig-
-
-**Screenshot(s):**
-
--screenshot(s) van je eindresultaat-
-
-
-
-## Voortgang 3 (week 6)
-
--same as voortgang 1-
-
-
-
-## Voortgang 2 (week 5)
-
--same as voortgang 1-
-
-
 
 ## Voortgang 1 (week 3)
 
@@ -62,3 +39,23 @@
 ### Verslag van meeting
 
 -na afloop snel uitkomsten vastleggen-
+
+
+## Voortgang 2 (week 5)
+
+-same as voortgang 1-
+
+
+## Voortgang 3 (week 6)
+
+-same as voortgang 1-
+
+
+## Eindgesprek (week 7/8)
+
+-dit ging goed & dit was lastig-
+
+**Screenshot(s):**
+
+-screenshot(s) van je eindresultaat-
+
