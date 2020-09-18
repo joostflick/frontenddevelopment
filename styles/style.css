@@ -1,5 +1,76 @@
+@font-face {
+  font-family: hamburg;
+  src: url(../fonts/Hamburg-Regular.otf);
+}
 /* CSS Document */
 *, *::after, *::before {
   box-sizing:border-box;  
 }
 
+body {
+  font-family: hamburg;
+  margin: 0;
+}
+
+header {
+  z-index: 999;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  height: 65px;
+}
+
+.menu {
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  width: 4rem;
+}
+
+.actions > img {
+  height: 40%;
+}
+
+.hero {
+  margin-top: 65px;
+  height: 200px;
+  background-image: url("../img/ahonline_smallBanner.png");
+  background-size: cover;
+  background-position: right;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  padding: 16px 16px 0;
+}
+
+.card {
+  width: 30vw;
+  height: 100px;
+  position: relative;
+  background-color: white;
+  top: -30px;
+  box-shadow: 2px 2px 10px black;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+}
+
+.content {
+  padding: 16px 16px 0;
+}
