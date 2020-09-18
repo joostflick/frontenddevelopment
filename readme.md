@@ -27,6 +27,11 @@ Lastig: Producten carousel voor mobiel
 
 **Screenshot(s):**
 
+#### Vergelijking origineel en mijn replica
+
+##### Origineel
+![screenshot van origineel](images/screenshotorigineel.JPG)
+##### Mijn versie
 ![screenshot van voortgang](images/screenshotweek3.JPG)
 
 ### Agenda voor meeting
