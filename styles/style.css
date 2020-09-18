@@ -2,13 +2,13 @@
   font-family: hamburg;
   src: url(../fonts/Hamburg-Regular.otf);
 }
-/* CSS Document */
+
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing: border-box;
 }
 
 body {
-  font-family: hamburg;
+  font-family: hamburg, sans-serif;
   margin: 0;
 }
 
