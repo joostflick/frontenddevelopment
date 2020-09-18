@@ -2,9 +2,8 @@
 **Auteur:** Joost Flick
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/
+
 
 ## Intake (week 1)
 
@@ -18,19 +17,17 @@
 
 ![screenshot van ah.nl](images/screenshot.png)
 
-**Breakdown-schets(en):**
-
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
-
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Goed: Opzet, sticky header
+
+Lastig: Producten carousel voor mobiel
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+![screenshot van voortgang](images/screenshotweek3.JPG)
 
 ### Agenda voor meeting
 
