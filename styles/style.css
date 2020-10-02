@@ -12,21 +12,46 @@ body {
   margin: 0;
 }
 
-header {
+.menu {
   z-index: 999;
   position: fixed;
   width: 100%;
-  top: 0;
+  top: 36px;
   background-color: white;
-  display: flex;
   justify-content: space-between;
   height: 65px;
 }
 
-.menu {
-  margin-left: 10px;
+.menu > a {
+  padding: 10px;
   display: flex;
   align-items: center;
+}
+
+.topbar {
+  position: fixed;
+  margin: 0;
+  top: 0;
+  padding: 0 24px;
+  width: 100%;
+  display: block;
+  height: 36px;
+  z-index: 9999;
+  background-color: #fff;
+}
+
+.topbar > ul {
+  display: flex;
+  font-size: 12px;
+  list-style: none;
+  justify-content: flex-end;
+  height: 100%;
+  margin: 0;
+}
+
+.topbar-item {
+  font-size: 11px;
+  padding: 0 10px;
 }
 
 .logo {
@@ -35,10 +60,24 @@ header {
   height: 100%;
 }
 
+.links {
+  display: flex;
+  align-items: center;
+}
+
+.links > a {
+  margin: 0 1em;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+}
+
 .actions {
   display: flex;
   align-items: center;
-  width: 4rem;
+  width: 10rem;
   justify-content: space-around;
 }
 
@@ -47,7 +86,7 @@ header {
 }
 
 .hero {
-  margin-top: 65px;
+  margin-top: 100px;
   height: 200px;
   background-image: url("../img/ahonline_smallBanner.png");
   background-size: cover;
@@ -58,8 +97,14 @@ header {
   padding: 16px 16px 0;
 }
 
+.cards {
+  display: flex;
+  justify-content: space-around;
+}
+
 .card {
   width: 30vw;
+  max-width: 22em;
   height: 100px;
   position: relative;
   background-color: white;
@@ -67,11 +112,56 @@ header {
   box-shadow: 2px 2px 10px black;
 }
 
-.cards {
+.items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 1rem;
+}
+
+.item {
   display: flex;
-  justify-content: space-around;
+}
+
+.item > img {
+  max-width: 144px;
+  max-height: 144px;
+}
+
+.spotlight-text {
+  padding: 24px 16px;
 }
 
 .content {
   padding: 16px 16px 0;
+}
+
+.menu-large {
+  display: flex;
+}
+
+.menu-small {
+  display: none;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 1024px) {
+  .hero {
+    margin-top: 65px;
+  }
+  .menu-large {
+    display: none;
+  }
+  .menu-small{
+    display: flex;
+  }
+  .topbar {
+    display: none;
+  }
+  .menu {
+    top: 0;
+  }
+  .actions {
+    width: 4rem;
+  }
 }

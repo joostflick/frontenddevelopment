@@ -25,6 +25,8 @@ Goed: Opzet, sticky header
 
 Lastig: Producten carousel voor mobiel
 
+https://www.w3schools.com/tags/tag_figure.asp
+
 **Screenshot(s):**
 
 #### Vergelijking origineel en mijn replica
