@@ -47,7 +47,10 @@ https://www.w3schools.com/tags/tag_figure.asp
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+- cards 3 naast elkaar stylen ipv caroussel
+- minder divs gebruiken
+- focussen op responsiveness
+- kijken waar padding/margin gebruiken
 
 
 ## Voortgang 3 (week 6)
