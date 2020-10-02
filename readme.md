@@ -42,16 +42,23 @@ https://www.w3schools.com/tags/tag_figure.asp
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
-
-
-## Voortgang 2 (week 5)
-
 - cards 3 naast elkaar stylen ipv caroussel
 - minder divs gebruiken
 - focussen op responsiveness
 - kijken waar padding/margin gebruiken
 
+
+## Voortgang 2 (week 5)
+
+Header + content responsive gemaakt.
+Op de screenshots hieronder is te zien hoe de content meeschaalt met de schermgrootte.
+
+##### Mobiel
+![screenshot van origineel](images/screenshotweek5.JPG)
+##### Desktop
+![screenshot van voortgang](images/screenshotweek5desktop.JPG)
+
+### Verslag van meeting
 
 ## Voortgang 3 (week 6)
 
