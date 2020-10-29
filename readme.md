@@ -3,6 +3,8 @@
 
 ## Bronnenlijst
 1. https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/
+2. https://www.w3schools.com/howto/howto_css_dropdown.asp
+3. https://stackoverflow.com/questions/40446658/javascript-add-transition-between-displaynone-and-displayblock
 
 
 ## Intake (week 1)
@@ -69,6 +71,8 @@ Feedback van Victor
 - adblocker banners gemaakt
 - uitgelichte producten flex direction column voor mobiel
 - footer toegevoegd
+- product pagina toegevoegd
+- dropdown menu + animatie toegevoegd
 
 ##### Mobiel
 ![screenshot van origineel](images/screenshotuitgelicht.JPG)
