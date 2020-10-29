@@ -196,6 +196,16 @@ h1 {
   background: #edf6fc url('../img/background_blurred.png') 100% no-repeat;
 }
 
+footer {
+  height: 200px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 2rem;
+  width: 100%;
+  background-color: #f5f5f5;;
+}
+
 /* MEDIA QUERIES */
 
 @media screen and (max-width: 575px) {
@@ -208,6 +218,10 @@ h1 {
   }
 }
 @media screen and (max-width: 1024px) {
+  footer {
+    height: unset;
+    flex-direction: column;
+  }
   .menu-large {
     display: none;
   }

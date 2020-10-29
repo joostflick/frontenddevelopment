@@ -68,6 +68,7 @@ Feedback van Victor
 - product kaarten uitgebreid
 - adblocker banners gemaakt
 - uitgelichte producten flex direction column voor mobiel
+- footer toegevoegd
 
 ##### Mobiel
 ![screenshot van origineel](images/screenshotuitgelicht.JPG)
@@ -77,9 +78,10 @@ Feedback van Victor
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
-
 **Screenshot(s):**
+##### Desktop
+![screenshot van origineel](images/fullsizescreenshot.png)
+##### Mobiel
+![screenshot van voortgang](images/fullsizemobile.png)
 
--screenshot(s) van je eindresultaat-
 
