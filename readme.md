@@ -78,6 +78,7 @@ Feedback van Victor
 ![screenshot van origineel](images/screenshotuitgelicht.JPG)
 ##### Widescreen
 ![screenshot van voortgang](images/screenshotwidescreen.JPG)
+![screenshot van voortgang](images/productpagina.JPG)
 
 
 ## Eindgesprek (week 7/8)
@@ -85,6 +86,8 @@ Feedback van Victor
 **Screenshot(s):**
 ##### Desktop
 ![screenshot van origineel](images/fullsizescreenshot.png)
+
+
 ##### Mobiel
 ![screenshot van voortgang](images/fullsizemobile.png)
 
