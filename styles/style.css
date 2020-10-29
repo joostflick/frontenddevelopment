@@ -36,7 +36,10 @@ a {
   position: fixed;
   margin: 0;
   top: 0;
-  padding: 0 24px;
+  border-bottom: 1px solid lightgrey;
+  max-width: 1400px;
+  left: 50%;
+  transform: translateX(-50%);
   width: 100%;
   display: block;
   height: 36px;
@@ -90,8 +93,7 @@ a {
 }
 
 .hero {
-  margin-top: 100px;
-  height: 200px;
+  height: 300px;
   background-image: url("../img/ahonline_smallBanner.png");
   background-size: cover;
   background-position: right;
@@ -107,19 +109,48 @@ a {
 }
 
 .card {
+  margin: 0 auto;
   width: 30vw;
   max-width: 22em;
-  height: 100px;
   position: relative;
   background-color: white;
   top: -30px;
   box-shadow: 2px 2px 10px black;
 }
 
+.cards > :first-child > .cardtop {
+  background-image: url("../img/colafles.jpg");
+}
+
+.cards > :nth-child(2) > .cardtop {
+  background-image: url("../img/appelmoes.jpg");
+}
+
+.cards > :nth-child(3) > .cardtop {
+  background-image: url("../img/robijn.jpg");
+}
+
+.cardtop {
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 200px;
+}
+
+.cardtop > h3 {
+  position: absolute;
+  right: 24px;
+  bottom: 24px;
+}
+
 .items {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   grid-gap: 1rem;
+}
+
+.max-width {
+  max-width: 1400px;
+  margin: 0 auto;
 }
 
 .item {
@@ -140,23 +171,43 @@ a {
 }
 
 .content {
-  padding: 16px 16px 0;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+h1 {
+  visibility: hidden;
 }
 
 .menu-large {
   display: flex;
+  max-width: 1400px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .menu-small {
   display: none;
 }
 
+.adblocker {
+  margin: 24px 0;
+  border: 1px solid #d9d5d0;
+  background: #edf6fc url('../img/background_blurred.png') 100% no-repeat;
+}
+
 /* MEDIA QUERIES */
 
-@media screen and (max-width: 1024px) {
-  .hero {
-    margin-top: 65px;
+@media screen and (max-width: 575px) {
+  .cards {
+    flex-direction: column;
   }
+  .card {
+    width: 90vw;
+    margin-bottom: 1rem;
+  }
+}
+@media screen and (max-width: 1024px) {
   .menu-large {
     display: none;
   }
@@ -172,4 +223,10 @@ a {
   .actions {
     width: 4rem;
   }
+}
+@media screen and (max-width: 1400px) {
+  .content {
+    padding: 0 16px;
+  }
+
 }

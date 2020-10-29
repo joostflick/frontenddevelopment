@@ -36,10 +36,6 @@ https://www.w3schools.com/tags/tag_figure.asp
 ##### Mijn versie
 ![screenshot van voortgang](images/screenshotweek3.JPG)
 
-### Agenda voor meeting
-
--samen met je groepje opstellen-
-
 ### Verslag van meeting
 
 - cards 3 naast elkaar stylen ipv caroussel
@@ -59,10 +55,24 @@ Op de screenshots hieronder is te zien hoe de content meeschaalt met de schermgr
 ![screenshot van voortgang](images/screenshotweek5desktop.JPG)
 
 ### Verslag van meeting
+Feedback van Victor
+
+- product cards uitbreiden
+- h1 toevoegen
+- rekening houden met widescreens
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+- Breedte aangepast zodat de site niet te breed wordt op widescreens
+- h1 met visibility hidden toegevoegd (https://stackoverflow.com/questions/3239202/whats-the-correct-way-to-hide-the-h1-tag-and-not-be-banned-from-google)
+- product kaarten uitgebreid
+- adblocker banners gemaakt
+- uitgelichte producten flex direction column voor mobiel
+
+##### Mobiel
+![screenshot van origineel](images/screenshotuitgelicht.JPG)
+##### Widescreen
+![screenshot van voortgang](images/screenshotwidescreen.JPG)
 
 
 ## Eindgesprek (week 7/8)
