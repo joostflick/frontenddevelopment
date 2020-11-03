@@ -83,6 +83,11 @@ Feedback van Victor
 
 ## Eindgesprek (week 7/8)
 
+### Aanvullingen na eindgesprek week 7:
+
+- divs vervangen door navs / lists
+- toegankelijkheid verbeterd door focus toe te voegen aan de dropdown
+
 **Screenshot(s):**
 ##### Desktop
 ![screenshot van origineel](images/fullsizescreenshot.png)
@@ -90,5 +95,7 @@ Feedback van Victor
 
 ##### Mobiel
 ![screenshot van voortgang](images/fullsizemobile.png)
+
+
 
 
