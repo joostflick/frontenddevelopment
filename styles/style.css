@@ -192,6 +192,7 @@ h1 {
 
 .menu-small {
   display: none;
+  max-width: 100vw;
 }
 
 .adblocker {
@@ -202,8 +203,8 @@ h1 {
 
 footer > ul {
   list-style: none;
-  height: 200px;
   display: flex;
+  flex-direction: column;
   justify-content: space-around;
   align-items: center;
   margin-top: 2rem;
